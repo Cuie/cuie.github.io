@@ -1,0 +1,23 @@
+table, th, td {
+               padding: 3px; 
+              }
+table li {text-align: left;}
+td, th {text-align: center;
+        width: 300px;}
+th {font-size: 22px;}
+table {border-collapse: collapse;
+       }
+.book {border: 2px solid black;}
+
+body {background: #E3FFFF;
+      font-size: 20px;
+     }
+h1 {color: blue;
+   font-family: Comic Sans MS;
+   text-align: center;
+   }
+.book {border: 2px solid black;}
+
+a:visited{background: pink}
+a:hover{background: lime}
+
