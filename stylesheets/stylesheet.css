@@ -4,6 +4,7 @@ table, th, td {
 table li {text-align: left;}
 
 th, td {font-size: 30px;}
+td {text-align: left;}
 
 
 table {border-collapse: collapse;
