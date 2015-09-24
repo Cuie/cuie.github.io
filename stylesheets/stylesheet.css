@@ -9,7 +9,9 @@ th, td {font-size: 22px;}
 
 table {border-collapse: collapse;
        }
-.book {border: 2px solid black;}
+.book {border: 2px solid black;
+       font-size: 20px;
+       }
 
 body {background: #E3FFFF;
       font-size: 20px;
