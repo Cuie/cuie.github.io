@@ -4,8 +4,8 @@ table, th, td {
 table li {text-align: left;}
 td, th {
         width: 300px;}
-th {font-size: 22px;}
-td {font-size: 20px;}
+th, td {font-size: 22px;}
+
 
 table {border-collapse: collapse;
        }
