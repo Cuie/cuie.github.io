@@ -21,3 +21,11 @@ h1 {color: blue;
 a:visited{background: pink}
 a:hover{background: lime}
 
+div {position: absolute;
+     width: 500px;
+     height: 400px;}
+#rightSide  img{position: absolute;}
+#leftSide  img{position: absolute;}
+#rightSide{ left: 600px;
+           border-left: 2px solid black;}
+
